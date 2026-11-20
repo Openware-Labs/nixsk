@@ -96,4 +96,4 @@ Registry path resolution order:
 
 ## License
 
-VSL License. See [LICENSE](/LICENSE) for details.
+MIT License. See [LICENSE](/LICENSE) for details.
